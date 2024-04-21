@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm null. This is an anonymous account for working on an anonymous app.
+
 <!--
 **NullifiedValue/NullifiedValue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
